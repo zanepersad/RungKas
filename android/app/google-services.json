@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "891261041543",
+    "project_id": "test-kasir",
+    "storage_bucket": "test-kasir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891261041543:android:462d735ea46a31fe06b122",
+        "android_client_info": {
+          "package_name": "com.example.faza_kasir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW_xWcfBxJ4kfoztZ4JUmdmkRvlBWnhEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891261041543:android:81c487d615716f9006b122",
+        "android_client_info": {
+          "package_name": "com.example.my_kasir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW_xWcfBxJ4kfoztZ4JUmdmkRvlBWnhEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891261041543:android:7ea73fc63c4515ab06b122",
+        "android_client_info": {
+          "package_name": "com.example.test_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW_xWcfBxJ4kfoztZ4JUmdmkRvlBWnhEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
